@@ -20,7 +20,7 @@
     "test:unit:watch": "jest test/unit --watch"
   },
   "engines": {
-    "node": ">=8.9.3"
+    "node": ">=6.14.8"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
